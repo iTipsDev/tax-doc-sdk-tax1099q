@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "64-112-0686",
+  "taxFormId" : "4122519",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0919123",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Christiansen Group"
+    },
+    "address" : {
+      "line1" : "64741 Anderson Stream",
+      "city" : "Abbottchester",
+      "region" : "UT",
+      "postalCode" : "34680"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jacinto.dietrich@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-52-5536",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Francis",
+      "last" : "Lynch"
+    },
+    "address" : {
+      "line1" : "79828 Melaine Key",
+      "city" : "Lake Ismael",
+      "region" : "VA",
+      "postalCode" : "46743"
+    },
+    "email" : "janita.gottlieb@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "385-70119-9",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "trusteeToTrustee" : true,
+  "qtpToRothIRA" : true,
+  "tuitionPlanPrivate" : true,
+  "tuitionPlanPublic" : true,
+  "coverdellEsa" : true,
+  "recipientIsNotBeneficiary" : true,
+  "fairMarketValue" : 500
+}
