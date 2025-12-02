@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "11-432-8755",
+  "taxFormId" : "4456254",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0919123",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Christiansen Group"
+    },
+    "address" : {
+      "line1" : "64741 Anderson Stream",
+      "city" : "Abbottchester",
+      "region" : "UT",
+      "postalCode" : "34680"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jacinto.dietrich@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-52-6625",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lacey",
+      "last" : "Ratke"
+    },
+    "address" : {
+      "line1" : "838 Michal Burgs",
+      "city" : "Jacobiville",
+      "region" : "CO",
+      "postalCode" : "82113"
+    },
+    "email" : "un.kuvalis@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "140-81361-7",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "trusteeToTrustee" : true,
+  "qtpToRothIRA" : true,
+  "tuitionPlanPrivate" : true,
+  "tuitionPlanPublic" : true,
+  "coverdellEsa" : true,
+  "recipientIsNotBeneficiary" : true,
+  "fairMarketValue" : 500
+}

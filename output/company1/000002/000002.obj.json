@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "21-201-7067",
+  "taxFormId" : "9663929",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0919123",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Christiansen Group"
+    },
+    "address" : {
+      "line1" : "64741 Anderson Stream",
+      "city" : "Abbottchester",
+      "region" : "UT",
+      "postalCode" : "34680"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jacinto.dietrich@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-72-9660",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Vernita",
+      "last" : "Altenwerth"
+    },
+    "address" : {
+      "line1" : "29261 Fay Dam",
+      "city" : "West Allena",
+      "region" : "ID",
+      "postalCode" : "35855"
+    },
+    "email" : "ela.schaden@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "485-70627-4",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "trusteeToTrustee" : true,
+  "qtpToRothIRA" : true,
+  "tuitionPlanPrivate" : true,
+  "tuitionPlanPublic" : true,
+  "coverdellEsa" : true,
+  "recipientIsNotBeneficiary" : true,
+  "fairMarketValue" : 500
+}
