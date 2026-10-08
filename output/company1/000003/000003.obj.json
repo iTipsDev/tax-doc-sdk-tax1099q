@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "06-278-6798",
+  "taxFormId" : "3060532",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0651129",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hettinger LLC"
+    },
+    "address" : {
+      "line1" : "2228 Cleotilde Points",
+      "city" : "South Linomouth",
+      "region" : "VA",
+      "postalCode" : "54447",
+      "unitType" : "Apt",
+      "unitNumber" : "653"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "cole.altenwerth@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-59-1820",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Melinda",
+      "middle" : "Daniela",
+      "last" : "Cormier"
+    },
+    "businessName" : {
+      "name1" : "Green, McDermott and Armstrong"
+    },
+    "address" : {
+      "line1" : "39061 Jarrod Plaza",
+      "city" : "West Ashley",
+      "region" : "AK",
+      "postalCode" : "65963",
+      "unitType" : "Apt",
+      "unitNumber" : "042"
+    },
+    "email" : "esther.murphy@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "583-57618-1",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "trusteeToTrustee" : true,
+  "qtpToRothIRA" : true,
+  "tuitionPlanPrivate" : true,
+  "tuitionPlanPublic" : true,
+  "coverdellEsa" : true,
+  "recipientIsNotBeneficiary" : true,
+  "fairMarketValue" : 500
+}

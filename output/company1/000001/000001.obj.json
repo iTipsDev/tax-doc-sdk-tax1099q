@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "86-499-3122",
+  "taxFormId" : "0229092",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0651129",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hettinger LLC"
+    },
+    "address" : {
+      "line1" : "2228 Cleotilde Points",
+      "city" : "South Linomouth",
+      "region" : "VA",
+      "postalCode" : "54447",
+      "unitType" : "Apt",
+      "unitNumber" : "653"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "cole.altenwerth@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-89-6900",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Floretta",
+      "middle" : "Ami",
+      "last" : "Nolan"
+    },
+    "businessName" : {
+      "name1" : "Hoppe and Sons"
+    },
+    "address" : {
+      "line1" : "454 Deangelo Shoals",
+      "city" : "Waelchitown",
+      "region" : "SD",
+      "postalCode" : "23683",
+      "unitType" : "Apt",
+      "unitNumber" : "366"
+    },
+    "email" : "kenton.oberbrunner@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "564-36252-6",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "trusteeToTrustee" : true,
+  "qtpToRothIRA" : true,
+  "tuitionPlanPrivate" : true,
+  "tuitionPlanPublic" : true,
+  "coverdellEsa" : true,
+  "recipientIsNotBeneficiary" : true,
+  "fairMarketValue" : 500
+}

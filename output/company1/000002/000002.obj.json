@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "80-394-9506",
+  "taxFormId" : "6771495",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0651129",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hettinger LLC"
+    },
+    "address" : {
+      "line1" : "2228 Cleotilde Points",
+      "city" : "South Linomouth",
+      "region" : "VA",
+      "postalCode" : "54447",
+      "unitType" : "Apt",
+      "unitNumber" : "653"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "cole.altenwerth@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-06-1526",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Ike",
+      "middle" : "Tara",
+      "last" : "Rosenbaum"
+    },
+    "businessName" : {
+      "name1" : "Borer-Oberbrunner"
+    },
+    "address" : {
+      "line1" : "4432 Adalberto Summit",
+      "city" : "New Broderick",
+      "region" : "IN",
+      "postalCode" : "63977",
+      "unitType" : "Apt",
+      "unitNumber" : "377"
+    },
+    "email" : "caroline.christiansen@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "115-50262-7",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "trusteeToTrustee" : true,
+  "qtpToRothIRA" : true,
+  "tuitionPlanPrivate" : true,
+  "tuitionPlanPublic" : true,
+  "coverdellEsa" : true,
+  "recipientIsNotBeneficiary" : true,
+  "fairMarketValue" : 500
+}
